@@ -1,21 +1,20 @@
 🛍 Welcome to the Myntra Clone! 🎁
-This is a static website built using HTML & CSS, meticulously crafted to replicate the look and feel of Myntra's homepage.
+    This is a static website built using HTML & CSS, meticulously crafted to replicate the look and feel of Myntra's homepage.
 
-<p align="right"> <a href="https://github.com/krishanmurariji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Krishan_murari" height="30" width="40" /></a> </p>
 📝 Table of Contents
-Features
-Tech Stack
-Usage
-Author
+  Features
+  Tech Stack
+  Usage
+  Author
 🌟 Features
-Header with navigation bar
-Main content section displaying products
-Footer with links
+  Header with navigation bar
+  Main content section displaying products
+  Footer with links
 💻 Tech Stack
-Client: HTML, CSS
+  Client: HTML, CSS
 
 🚀 Usage
-To use the Myntra Clone, simply open the index.html file in your web browser.
+  To use the Myntra Clone, simply open the index.html file in your web browser.
 
 👨‍💻 Author
 👤 Krishan Murari
